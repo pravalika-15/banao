@@ -1,0 +1,82 @@
+#cards {
+    padding-left: 10rem;
+    padding-top: 3rem;
+    padding-bottom: 0rem;
+
+  }
+
+.search {
+  border-radius: 21px;
+}
+#box {
+  border-bottom: 0.4px solid #B8B8B8;;
+}
+
+#card1{
+  padding-right: 10rem;
+}
+
+#card2{
+  padding-right: 10rem;
+}
+
+a {
+  color: black;
+}
+
+#nav2 {
+  padding-left: 10rem;
+  padding-top: 2rem;
+  border-bottom: 1px solid #E0E0E0;;
+}
+
+#cards .btn {
+  border-radius: 10px;
+}
+
+.box3 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.title1 {
+    font-size: small;
+    padding-left: 4rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0;
+}
+
+#modal-title {
+  background-color: #EFFFF4;
+
+}
+
+.buttons {
+  border-radius: 14px;
+  background-color: #EDEEF0;
+  height: 24px;
+  width: 60px;
+  font-size: small;
+  
+}
+
+
+
+@media (max-width: 900px){
+  #cards {
+    padding-left: 2rem;
+
+  }
+
+  #card1{
+    padding-right: 3rem;
+  }
+  
+  #card2{
+    padding-right: 3rem;
+  }
+
+  #nav2 {
+    padding-left: 1rem;
+  }
+}
+
